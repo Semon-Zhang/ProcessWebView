@@ -1,0 +1,6 @@
+rootProject.name='Architect'
+include ':app'
+include ':module_base'
+include ':module_webview'
+include ':common'
+include ':usercenter'
